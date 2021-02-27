@@ -21,3 +21,7 @@ However, even if the service is taken mostly by men, in general women seem to en
 During the presentation, I will first focus to show a general pattern of what days the bike rental service is taken. From where, by highlighting the main points of interest, and by who. 
 This last point will be additionally analyzed to discover the composition of the users, their age, and the distance they cover by taking a ride. 
 We will see that people benefit most from the service by buying an annual subscription and using it essentially to go to work. 
+
+
+### References
+- Dataset (Ford GoBike System Data)[https://docs.google.com/document/d/e/2PACX-1vQmkX4iOT6Rcrin42vslquX2_wQCjIa_hbwD0xmxrERPSOJYDtpNc_3wwK_p9_KpOsfA6QVyEHdxxq7/pub?embedded=True]
