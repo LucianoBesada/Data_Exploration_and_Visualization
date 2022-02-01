@@ -2,8 +2,8 @@
 
 Tools useful for analysis: *Python* and *Jupyter Notebook.* <br>
 Final analysis from two parts:
-1. Data Expoloration and Cleaning
-2. Data Explanation and Visualization
+**1.** [Data Expoloration and Cleaning](https://github.com/LucianoBesada/Data_Exploration_and_Visualization/blob/main/Data%20exploration.ipynb)
+**2.** [Data Explanation and Visualization](https://github.com/LucianoBesada/Data_Exploration_and_Visualization/blob/main/Data%20explanation.ipynb)
 
 ## Dataset
 
