@@ -1,7 +1,7 @@
 # Ford GoBike System Data - San Francisco Bay Area
 
 Tools useful for analysis: *Python* and *Jupyter Notebook.* <br>
-Final analysis from two parts:
+Final analysis from two parts: <br>
 **1.** [Data Expoloration and Cleaning](https://github.com/LucianoBesada/Data_Exploration_and_Visualization/blob/main/Data%20exploration.ipynb) <br>
 **2.** [Data Explanation and Visualization](https://github.com/LucianoBesada/Data_Exploration_and_Visualization/blob/main/Data%20explanation.ipynb)
 
